@@ -79,12 +79,14 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="FordFulkerson.h" />
     <ClInclude Include="Graph.h" />
     <ClInclude Include="GraphPaths.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="FordFulkerson.cpp" />
     <ClCompile Include="Graph.cpp" />
     <ClCompile Include="GraphPaths.cpp" />
     <ClCompile Include="stdafx.cpp">

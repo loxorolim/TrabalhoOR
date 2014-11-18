@@ -14,6 +14,7 @@ typedef struct edge {
 	struct node *node;
 	struct edge *next;
 	int cost;
+	int xValue;
 } TEdge;
 
 
