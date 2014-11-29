@@ -81,8 +81,19 @@ TNode* insert_node(TNode *node, int number){
 void insert_edge(TNode *graph, int origin, int dest, int cost){
 	TNode * origin_node = find_node(graph, origin);
 	TNode * dest_node = find_node(graph, dest);
+	
 	if (!origin_node || !dest_node){
 		return;
+	}
+	TEdge* aux = origin_node->edges;
+	while (aux)
+	{
+		if (aux->node->number == dest)
+		{
+			aux->cost += cost;
+			return;
+		}
+		aux = aux->next;
 	}
 	insert_edge_in_node(origin_node, dest_node, cost);
 	//insert_edge_in_node(dest_node, origin_node, cost);
@@ -110,6 +121,7 @@ void insert_edge_in_node(TNode *origin, TNode *dest, int cost) {
 		}
 	}
 }
+
 
 TNode * remove_node(TNode *node, int number) {
 	if (!node) {
@@ -290,6 +302,122 @@ TNode * read_file(char* name) {
 			insert_edge(result, number1, number2, cost);
 		}
 		fclose(file);
+	}
+	return result;
+}
+TNode *read_file2(char* name)
+{
+	TNode *result = NULL;
+	FILE *file;
+	fopen_s(&file, name, "r");
+	if (file) {
+		while (true)
+		{
+			char a;
+			int  no1 = -1, no2 = -1, cost = -1;
+			fscanf_s(file, "%c", &a);
+			fscanf_s(file, "%d",  &no1);
+			fscanf_s(file, "%d",  &no2 );
+			fscanf_s(file, "%d",  &cost);
+			fscanf_s(file, "%c", &a);
+
+			if (no1 == -1)
+				break;
+			result = insert_node(result, no1);
+			result = insert_node(result, no2);
+			insert_edge(result, no1, no2, cost);
+		}
+
+		
+		
+		fclose(file);
+	}
+	return result;
+}
+TNode *GraphRandomized(int n)
+{
+	TNode* result = NULL;
+	for (int i = 0; i < n; i++)
+	{
+
+		result = insert_node(result, i+1);
+		TNode* aux = result;
+		while (aux->number != (i+1))
+		{
+			int random = rand() % 100 + 1;
+			//int random2 = rand() % 100 + 1;
+			if (aux->number == i)
+				insert_edge(result, aux->number, i+1,random);
+			else
+			{
+				int choose = rand() % 2 + 1;
+				if (choose == 1)
+					insert_edge(result, aux->number, i + 1, random);
+			}
+			//insert_edge(result, i+1, aux->number,random2);
+			aux = aux->next;
+		}
+
+	}
+	return result;
+}
+TNode *OneDirectionGraph(int n)
+{
+	TNode* result = NULL;
+	for (int i = 0; i < n; i++)
+	{
+
+		result = insert_node(result, i + 1);
+		TNode* aux = result;
+		while (aux->number != (i + 1))
+		{
+			int random = rand() % 100 + 1;
+			//int random2 = rand() % 100 + 1;
+			insert_edge(result, aux->number, i + 1, random);
+			//insert_edge(result, i + 1, aux->number, random2);
+			aux = aux->next;
+		}
+
+	}
+	return result;
+}
+TNode *OneDirectionDrecreaseFlowGraph(int n)
+{
+	TNode* result = NULL;
+	for (int i = 0; i < n; i++)
+	{
+
+		result = insert_node(result, i + 1);
+		TNode* aux = result;
+		while (aux->number != (i + 1))
+		{
+			int random = rand() %(n-i) + 1;
+			//int random2 = rand() % 100 + 1;
+			insert_edge(result, aux->number, i + 1, random);
+			//insert_edge(result, i + 1, aux->number, random2);
+			aux = aux->next;
+		}
+
+	}
+	return result;
+}
+TNode *CompleteGraph(int n)
+{
+	TNode* result = NULL;
+	for (int i = 0; i < n; i++)
+	{
+
+		result = insert_node(result, i + 1);
+		TNode* aux = result;
+		while (aux->number != (i + 1))
+		{
+			int random = rand() % 100 + 1;
+			int random2 = rand() % 100 + 1;
+			insert_edge(result, aux->number, i + 1, random);	
+			insert_edge(result, i+1, aux->number,random2);
+			aux = aux->next;
+		}
+
 	}
 	return result;
 }

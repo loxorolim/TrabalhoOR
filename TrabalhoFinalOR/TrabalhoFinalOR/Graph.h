@@ -56,6 +56,16 @@ void save_file(TNode *node, char* name);
 
 TNode * read_file(char* name);
 
+TNode *read_file2(char* name);
+
+TNode *GraphRandomized(int n);
+
+TNode *CompleteGraph(int n);
+
+TNode *OneDirectionGraph(int n);
+
+TNode *OneDirectionDrecreaseFlowGraph(int n);
+
 #endif
 
 //#include "stdafx.h"

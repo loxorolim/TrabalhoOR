@@ -17,10 +17,14 @@ TNode* createGraphCopy(TNode *g)
 		TEdge* e = aux->edges;
 		while (e)
 		{
-			if (e->cost == e->xValue)			
-				insert_edge(ret, e->node->number, aux->number, e->xValue);			
+			if (e->cost == e->xValue)
+			{
+				insert_edge(ret, e->node->number, aux->number, e->xValue);
+			}
 			else if (e->xValue == 0)
+			{
 				insert_edge(ret, aux->number, e->node->number, e->cost);
+			}
 			else if (e->cost - e->xValue > 0)
 			{
 				insert_edge(ret, aux->number, e->node->number, e->cost - e->xValue);
@@ -89,13 +93,13 @@ void FordFulkerson(TNode *g, int source, int dest, int pathOption)
 	TNode *gcopy = createGraphCopy(g);
 	int pathSize = -1;
 	int* path = getPath(gcopy, source, dest,pathOption,pathSize);
-	print_graph(gcopy);
+	//print_graph(gcopy);
 	while (path)
 	{
 		int maxFlow = getMaxFlowFromPath(gcopy, path, pathSize);
-		for (int i = 0; i < pathSize; i++)
-			printf("%d ", path[i]);
-		printf("\n");
+		//for (int i = 0; i < pathSize; i++)
+		//	printf("%d ", path[i]);
+		//printf("\n");
 		for (int i = 0; i < pathSize-1; i++)
 		{
 			TEdge* e = getEdge(g, path[i], path[i + 1]);
@@ -111,6 +115,7 @@ void FordFulkerson(TNode *g, int source, int dest, int pathOption)
 				e->xValue -= maxFlow;
 			}
 		}
+		free_nodes(gcopy);
 		gcopy = createGraphCopy(g);
 		path = getPath(gcopy, source, dest, pathOption, pathSize);
 		//print_graph(gcopy);
