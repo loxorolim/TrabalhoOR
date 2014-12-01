@@ -4,6 +4,6 @@
 #include "GraphPaths.h"
 
 TNode* createGraphCopy(TNode *g);
-void FordFulkerson(TNode *g, int source, int dest, int pathOption);
+int FordFulkerson(TNode *g, int source, int dest, int pathOption);
 
 #endif

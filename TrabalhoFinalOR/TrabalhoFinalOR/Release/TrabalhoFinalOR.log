@@ -1,4 +1,4 @@
-﻿Build started 29/11/2014 21:31:23.
+﻿Build started 01/12/2014 00:19:26.
      1>Project "C:\Users\Guilherme\Documents\GitHub\TrabalhoOR\TrabalhoFinalOR\TrabalhoFinalOR\TrabalhoFinalOR.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\TrabalhoFinalOR.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt TrabalhoFinalOR.cpp
@@ -17,4 +17,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:00.66
+Time Elapsed 00:00:00.87

@@ -77,7 +77,7 @@ int getMaxFlowFromPath(TNode* g,int* path, int size)
 	return ret;
 }
 
-void FordFulkerson(TNode *g, int source, int dest, int pathOption)
+int FordFulkerson(TNode *g, int source, int dest, int pathOption)
 {
 	TNode *aux = g;
 	while (aux)
@@ -93,9 +93,11 @@ void FordFulkerson(TNode *g, int source, int dest, int pathOption)
 	TNode *gcopy = createGraphCopy(g);
 	int pathSize = -1;
 	int* path = getPath(gcopy, source, dest,pathOption,pathSize);
+	int numRounds = 0;
 	//print_graph(gcopy);
 	while (path)
 	{
+		numRounds++;
 		int maxFlow = getMaxFlowFromPath(gcopy, path, pathSize);
 		//for (int i = 0; i < pathSize; i++)
 		//	printf("%d ", path[i]);
@@ -127,7 +129,8 @@ void FordFulkerson(TNode *g, int source, int dest, int pathOption)
 		f += e->xValue;
 		e = e->next;
 	}
-	printf("%d", f);
+//	printf("%d", f);
+	return numRounds;
 
 	//print_graph(gcopy);
 

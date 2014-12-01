@@ -1,0 +1,1393 @@
+-----------------------Graph Size: 10 -----------------------
+
+***************Randomized Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 5
+Processing time in seconds: 0.000000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 3
+Processing time in seconds: 0.001000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 4
+Processing time in seconds: 0.000000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 9
+Processing time in seconds: 0.001000
+
+***************Complete Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 24
+Processing time in seconds: 0.002000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 15
+Processing time in seconds: 0.001000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 15
+Processing time in seconds: 0.002000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 68
+Processing time in seconds: 0.004000
+
+***************One Direction Decrease Flow Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 9
+Processing time in seconds: 0.001000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 9
+Processing time in seconds: 0.000000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 9
+Processing time in seconds: 0.001000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 9
+Processing time in seconds: 0.001000
+
+***************One Direction Flow Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 9
+Processing time in seconds: 0.000000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 9
+Processing time in seconds: 0.001000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 9
+Processing time in seconds: 0.001000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 9
+Processing time in seconds: 0.000000
+
+-----------------------Graph Size: 20 -----------------------
+
+***************Randomized Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 18
+Processing time in seconds: 0.001000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 23
+Processing time in seconds: 0.003000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 10
+Processing time in seconds: 0.001000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 75
+Processing time in seconds: 0.008000
+
+***************Complete Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 89
+Processing time in seconds: 0.028000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 33
+Processing time in seconds: 0.014000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 36
+Processing time in seconds: 0.015000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 185
+Processing time in seconds: 0.045000
+
+***************One Direction Decrease Flow Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 19
+Processing time in seconds: 0.004000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 19
+Processing time in seconds: 0.004000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 19
+Processing time in seconds: 0.003000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 19
+Processing time in seconds: 0.005000
+
+***************One Direction Flow Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 19
+Processing time in seconds: 0.003000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 19
+Processing time in seconds: 0.004000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 19
+Processing time in seconds: 0.004000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 19
+Processing time in seconds: 0.004000
+
+-----------------------Graph Size: 30 -----------------------
+
+***************Randomized Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 52
+Processing time in seconds: 0.012000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 98
+Processing time in seconds: 0.024000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 35
+Processing time in seconds: 0.010000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 306
+Processing time in seconds: 0.063000
+
+***************Complete Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 248
+Processing time in seconds: 0.224000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 66
+Processing time in seconds: 0.079000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 56
+Processing time in seconds: 0.199000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 845
+Processing time in seconds: 0.471000
+
+***************One Direction Decrease Flow Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 29
+Processing time in seconds: 0.021000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 29
+Processing time in seconds: 0.015000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 29
+Processing time in seconds: 0.017000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 29
+Processing time in seconds: 0.017000
+
+***************One Direction Flow Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 29
+Processing time in seconds: 0.024000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 29
+Processing time in seconds: 0.015000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 29
+Processing time in seconds: 0.021000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 29
+Processing time in seconds: 0.015000
+
+-----------------------Graph Size: 40 -----------------------
+
+***************Randomized Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 60
+Processing time in seconds: 0.025000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 38
+Processing time in seconds: 0.018000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 27
+Processing time in seconds: 0.016000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 277
+Processing time in seconds: 0.105000
+
+***************Complete Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 437
+Processing time in seconds: 0.600000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 85
+Processing time in seconds: 0.270000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 80
+Processing time in seconds: 0.295000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 710
+Processing time in seconds: 0.849000
+
+***************One Direction Decrease Flow Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 39
+Processing time in seconds: 0.061000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 39
+Processing time in seconds: 0.047000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 39
+Processing time in seconds: 0.051000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 39
+Processing time in seconds: 0.051000
+
+***************One Direction Flow Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 39
+Processing time in seconds: 0.050000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 39
+Processing time in seconds: 0.047000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 39
+Processing time in seconds: 0.050000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 39
+Processing time in seconds: 0.050000
+
+-----------------------Graph Size: 50 -----------------------
+
+***************Randomized Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 108
+Processing time in seconds: 0.072000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 270
+Processing time in seconds: 0.159000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 34
+Processing time in seconds: 0.034000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 525
+Processing time in seconds: 0.288000
+
+***************Complete Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 650
+Processing time in seconds: 2.111000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 105
+Processing time in seconds: 0.602000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 93
+Processing time in seconds: 1.601000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 928
+Processing time in seconds: 2.119000
+
+***************One Direction Decrease Flow Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 49
+Processing time in seconds: 0.170000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 49
+Processing time in seconds: 0.136000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 49
+Processing time in seconds: 0.166000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 49
+Processing time in seconds: 0.123000
+
+***************One Direction Flow Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 49
+Processing time in seconds: 0.120000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 49
+Processing time in seconds: 0.120000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 49
+Processing time in seconds: 0.142000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 49
+Processing time in seconds: 0.134000
+
+-----------------------Graph Size: 60 -----------------------
+
+***************Randomized Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 251
+Processing time in seconds: 0.224000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 322
+Processing time in seconds: 0.327000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 54
+Processing time in seconds: 0.096000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 1134
+Processing time in seconds: 0.899000
+
+***************Complete Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 653
+Processing time in seconds: 2.354000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 127
+Processing time in seconds: 1.535000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 116
+Processing time in seconds: 2.037000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 1396
+Processing time in seconds: 5.103000
+
+***************One Direction Decrease Flow Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 59
+Processing time in seconds: 0.288000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 59
+Processing time in seconds: 0.296000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 59
+Processing time in seconds: 0.333000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 59
+Processing time in seconds: 0.277000
+
+***************One Direction Flow Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 59
+Processing time in seconds: 0.471000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 59
+Processing time in seconds: 0.292000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 59
+Processing time in seconds: 0.452000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 59
+Processing time in seconds: 0.303000
+
+-----------------------Graph Size: 70 -----------------------
+
+***************Randomized Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 224
+Processing time in seconds: 0.306000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 425
+Processing time in seconds: 0.602000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 59
+Processing time in seconds: 0.210000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 1151
+Processing time in seconds: 1.306000
+
+***************Complete Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 930
+Processing time in seconds: 5.849000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 142
+Processing time in seconds: 3.926000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 130
+Processing time in seconds: 4.714000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 2242
+Processing time in seconds: 12.448000
+
+***************One Direction Decrease Flow Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 69
+Processing time in seconds: 1.074000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 69
+Processing time in seconds: 0.621000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 69
+Processing time in seconds: 0.535000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 69
+Processing time in seconds: 0.639000
+
+***************One Direction Flow Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 69
+Processing time in seconds: 1.055000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 69
+Processing time in seconds: 0.639000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 69
+Processing time in seconds: 0.969000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 69
+Processing time in seconds: 0.641000
+
+-----------------------Graph Size: 80 -----------------------
+
+***************Randomized Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 321
+Processing time in seconds: 0.638000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 716
+Processing time in seconds: 1.254000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 78
+Processing time in seconds: 0.335000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 1308
+Processing time in seconds: 2.186000
+
+***************Complete Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 1163
+Processing time in seconds: 10.915000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 144
+Processing time in seconds: 7.828000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 160
+Processing time in seconds: 16.767000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 2972
+Processing time in seconds: 24.158001
+
+***************One Direction Decrease Flow Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 79
+Processing time in seconds: 1.845000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 79
+Processing time in seconds: 1.249000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 79
+Processing time in seconds: 1.753000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 79
+Processing time in seconds: 1.210000
+
+***************One Direction Flow Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 79
+Processing time in seconds: 1.499000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 79
+Processing time in seconds: 1.268000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 79
+Processing time in seconds: 1.897000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 79
+Processing time in seconds: 1.149000
+
+-----------------------Graph Size: 90 -----------------------
+
+***************Randomized Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 433
+Processing time in seconds: 1.105000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 1015
+Processing time in seconds: 2.287000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 95
+Processing time in seconds: 0.654000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 1642
+Processing time in seconds: 3.500000
+
+***************Complete Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 1582
+Processing time in seconds: 25.995001
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 160
+Processing time in seconds: 15.310000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 183
+Processing time in seconds: 23.818001
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 3532
+Processing time in seconds: 42.721001
+
+***************One Direction Decrease Flow Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 89
+Processing time in seconds: 3.561000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 89
+Processing time in seconds: 2.245000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 89
+Processing time in seconds: 2.957000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 89
+Processing time in seconds: 2.307000
+
+***************One Direction Flow Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 89
+Processing time in seconds: 3.292000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 89
+Processing time in seconds: 2.403000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 89
+Processing time in seconds: 3.348000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 89
+Processing time in seconds: 2.416000
+
+-----------------------Graph Size: 100 -----------------------
+
+***************Randomized Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 594
+Processing time in seconds: 1.892000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 1385
+Processing time in seconds: 3.991000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 96
+Processing time in seconds: 0.683000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 1714
+Processing time in seconds: 4.836000
+
+***************Complete Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 1301
+Processing time in seconds: 28.250000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 196
+Processing time in seconds: 27.452000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 198
+Processing time in seconds: 60.390999
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 1969
+Processing time in seconds: 47.782001
+
+***************One Direction Decrease Flow Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 99
+Processing time in seconds: 5.575000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 99
+Processing time in seconds: 4.223000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 99
+Processing time in seconds: 5.002000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 99
+Processing time in seconds: 4.290000
+
+***************One Direction Flow Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 99
+Processing time in seconds: 4.457000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 99
+Processing time in seconds: 4.452000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 99
+Processing time in seconds: 5.536000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 99
+Processing time in seconds: 4.098000
+
+-----------------------Graph Size: 110 -----------------------
+
+***************Randomized Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 606
+Processing time in seconds: 2.738000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 1397
+Processing time in seconds: 5.188000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 125
+Processing time in seconds: 1.647000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 1991
+Processing time in seconds: 7.547000
+
+***************Complete Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 1585
+Processing time in seconds: 85.468002
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 183
+Processing time in seconds: 48.243000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 216
+Processing time in seconds: 113.147003
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 3091
+Processing time in seconds: 88.625999
+
+***************One Direction Decrease Flow Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 109
+Processing time in seconds: 7.823000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 109
+Processing time in seconds: 6.929000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 109
+Processing time in seconds: 10.037000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 109
+Processing time in seconds: 6.700000
+
+***************One Direction Flow Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 109
+Processing time in seconds: 8.508000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 109
+Processing time in seconds: 7.224000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 109
+Processing time in seconds: 9.600000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 109
+Processing time in seconds: 6.865000
+
+-----------------------Graph Size: 120 -----------------------
+
+***************Randomized Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 560
+Processing time in seconds: 3.680000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 1511
+Processing time in seconds: 6.754000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 104
+Processing time in seconds: 2.140000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 2099
+Processing time in seconds: 10.506000
+
+***************Complete Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 1965
+Processing time in seconds: 105.931999
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 192
+Processing time in seconds: 60.293999
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 229
+Processing time in seconds: 77.907997
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 4435
+Processing time in seconds: 142.628006
+
+***************One Direction Decrease Flow Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 119
+Processing time in seconds: 15.245000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 119
+Processing time in seconds: 11.531000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 119
+Processing time in seconds: 15.627000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 119
+Processing time in seconds: 11.063000
+
+***************One Direction Flow Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 119
+Processing time in seconds: 13.730000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 119
+Processing time in seconds: 12.157000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 119
+Processing time in seconds: 15.564000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 119
+Processing time in seconds: 10.753000
+
+-----------------------Graph Size: 130 -----------------------
+
+***************Randomized Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 937
+Processing time in seconds: 6.398000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 2319
+Processing time in seconds: 13.966000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 167
+Processing time in seconds: 3.342000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 2771
+Processing time in seconds: 16.576000
+
+***************Complete Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 2218
+Processing time in seconds: 156.718002
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 262
+Processing time in seconds: 75.813004
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 274
+Processing time in seconds: 151.632996
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 3658
+Processing time in seconds: 155.529007
+
+***************One Direction Decrease Flow Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 129
+Processing time in seconds: 22.681999
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 129
+Processing time in seconds: 17.599001
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 129
+Processing time in seconds: 23.628000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 129
+Processing time in seconds: 17.937000
+
+***************One Direction Flow Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 129
+Processing time in seconds: 16.907000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 129
+Processing time in seconds: 18.007000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 129
+Processing time in seconds: 25.054001
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 129
+Processing time in seconds: 17.686001
+
+-----------------------Graph Size: 140 -----------------------
+
+***************Randomized Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 644
+Processing time in seconds: 7.211000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 1658
+Processing time in seconds: 13.630000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 110
+Processing time in seconds: 5.301000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 2465
+Processing time in seconds: 20.552000
+
+***************Complete Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 2425
+Processing time in seconds: 172.151993
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 275
+Processing time in seconds: 104.274002
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 275
+Processing time in seconds: 91.596001
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 5880
+Processing time in seconds: 279.980988
+
+***************One Direction Decrease Flow Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 139
+Processing time in seconds: 31.757000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 139
+Processing time in seconds: 28.323999
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 139
+Processing time in seconds: 36.643002
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 139
+Processing time in seconds: 27.075001
+
+***************One Direction Flow Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 139
+Processing time in seconds: 31.709999
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 139
+Processing time in seconds: 28.313999
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 139
+Processing time in seconds: 36.622002
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 139
+Processing time in seconds: 20.115999
+
+-----------------------Graph Size: 150 -----------------------
+
+***************Randomized Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 1036
+Processing time in seconds: 12.528000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 2473
+Processing time in seconds: 24.620001
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 168
+Processing time in seconds: 7.280000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 3248
+Processing time in seconds: 32.202999
+
+***************Complete Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 2805
+Processing time in seconds: 228.076004
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 316
+Processing time in seconds: 150.875000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 307
+Processing time in seconds: 131.319000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 3028
+Processing time in seconds: 252.682999
+
+***************One Direction Decrease Flow Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 149
+Processing time in seconds: 41.648998
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 149
+Processing time in seconds: 42.980000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 149
+Processing time in seconds: 48.965000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 149
+Processing time in seconds: 41.912998
+
+***************One Direction Flow Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 149
+Processing time in seconds: 47.902000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 149
+Processing time in seconds: 40.341000
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 149
+Processing time in seconds: 55.785999
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 149
+Processing time in seconds: 41.344002
+
+-----------------------Graph Size: 160 -----------------------
+
+***************Randomized Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 1203
+Processing time in seconds: 18.208000
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 2988
+Processing time in seconds: 36.588001
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 173
+Processing time in seconds: 9.898000
+
+&&&Maximum Hop Path&&&
+
+Number of rounds: 3671
+Processing time in seconds: 43.907001
+
+***************Complete Graph***************
+
+&&&Minimum Cost Path&&&
+
+Number of rounds: 3130
+Processing time in seconds: 269.700012
+
+&&&Maximum Cost Path&&&
+
+Number of rounds: 316
+Processing time in seconds: 232.289001
+
+&&&Minimum Hop Path&&&
+
+Number of rounds: 329
+Processing time in seconds: 265.834015
+
+&&&Maximum Hop Path&&&
+

@@ -352,7 +352,14 @@ TNode *GraphRandomized(int n)
 			{
 				int choose = rand() % 2 + 1;
 				if (choose == 1)
-					insert_edge(result, aux->number, i + 1, random);
+				{
+					choose = rand() % 2 + 1;
+					if (choose == 1)
+						insert_edge(result, aux->number, i + 1, random);
+					else
+						insert_edge(result, i + 1,aux->number , random);
+				}
+				
 			}
 			//insert_edge(result, i+1, aux->number,random2);
 			aux = aux->next;
@@ -373,6 +380,18 @@ TNode *OneDirectionGraph(int n)
 		{
 			int random = rand() % 100 + 1;
 			//int random2 = rand() % 100 + 1;
+			if (aux->number == i)
+				insert_edge(result, aux->number, i + 1, random);
+			else
+			{
+				int choose = rand() % 2 + 1;
+				if (choose == 1)
+				{
+					insert_edge(result, aux->number, i + 1, random);
+
+				}
+
+			}
 			insert_edge(result, aux->number, i + 1, random);
 			//insert_edge(result, i + 1, aux->number, random2);
 			aux = aux->next;
@@ -392,7 +411,18 @@ TNode *OneDirectionDrecreaseFlowGraph(int n)
 		while (aux->number != (i + 1))
 		{
 			int random = rand() %(n-i) + 1;
-			//int random2 = rand() % 100 + 1;
+			if (aux->number == i)
+				insert_edge(result, aux->number, i + 1, random);
+			else
+			{
+				int choose = rand() % 2 + 1;
+				if (choose == 1)
+				{
+					insert_edge(result, aux->number, i + 1, random);
+
+				}
+
+			}
 			insert_edge(result, aux->number, i + 1, random);
 			//insert_edge(result, i + 1, aux->number, random2);
 			aux = aux->next;
